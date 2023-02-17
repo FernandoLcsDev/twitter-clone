@@ -1,0 +1,16 @@
+{
+	"name": "fernando/twitterclone",
+	"type": "project",
+	"authors": [
+		{
+			"name": "Fernando Lucas",
+			"email": "fernandolcsdev@outlook.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"App\\": "App/",
+			"PF\\": "vendor/PF/"
+		}
+	}
+}
